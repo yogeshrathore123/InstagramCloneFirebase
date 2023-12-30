@@ -17,7 +17,6 @@
 		AB86E3B82B3F10CB002FCBC3 /* InstagramCloneFirebaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB86E3B72B3F10CB002FCBC3 /* InstagramCloneFirebaseTests.swift */; };
 		AB86E3C22B3F10CB002FCBC3 /* InstagramCloneFirebaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB86E3C12B3F10CB002FCBC3 /* InstagramCloneFirebaseUITests.swift */; };
 		AB86E3C42B3F10CB002FCBC3 /* InstagramCloneFirebaseUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB86E3C32B3F10CB002FCBC3 /* InstagramCloneFirebaseUITestsLaunchTests.swift */; };
-		AB86E3D12B408383002FCBC3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB86E3D02B408382002FCBC3 /* GoogleService-Info.plist */; };
 		C2A8D7998879062AF8897378 /* Pods_InstagramCloneFirebase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B78F10ED668FAC90AAABA71 /* Pods_InstagramCloneFirebase.framework */; };
 		E891B283FA1045C64A866DEF /* Pods_InstagramCloneFirebaseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85D0A0F568FF388BB5B31CB0 /* Pods_InstagramCloneFirebaseTests.framework */; };
 /* End PBXBuildFile section */
@@ -62,7 +61,6 @@
 		AB86E3BD2B3F10CB002FCBC3 /* InstagramCloneFirebaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramCloneFirebaseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB86E3C12B3F10CB002FCBC3 /* InstagramCloneFirebaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramCloneFirebaseUITests.swift; sourceTree = "<group>"; };
 		AB86E3C32B3F10CB002FCBC3 /* InstagramCloneFirebaseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramCloneFirebaseUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		AB86E3D02B408382002FCBC3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +111,6 @@
 				7F4D202FDCD12DCF941E6380 /* Pods-InstagramCloneFirebaseTests.debug.xcconfig */,
 				709E26C44BA09C6F3543FF5A /* Pods-InstagramCloneFirebaseTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -149,7 +146,6 @@
 				AB86E3A92B3F10CA002FCBC3 /* Assets.xcassets */,
 				AB86E3AB2B3F10CA002FCBC3 /* LaunchScreen.storyboard */,
 				AB86E3AE2B3F10CA002FCBC3 /* Info.plist */,
-				AB86E3D02B408382002FCBC3 /* GoogleService-Info.plist */,
 			);
 			path = InstagramCloneFirebase;
 			sourceTree = "<group>";
@@ -281,7 +277,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB86E3AD2B3F10CA002FCBC3 /* LaunchScreen.storyboard in Resources */,
-				AB86E3D12B408383002FCBC3 /* GoogleService-Info.plist in Resources */,
 				AB86E3AA2B3F10CA002FCBC3 /* Assets.xcassets in Resources */,
 				AB86E3A82B3F10C9002FCBC3 /* Main.storyboard in Resources */,
 			);
